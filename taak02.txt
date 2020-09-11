@@ -1,0 +1,5 @@
+basic layout
+side by side editing
+minimap
+breadcrumbs
+explorer
